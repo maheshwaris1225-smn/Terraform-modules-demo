@@ -1,5 +1,5 @@
 variable "aminame" {
-  default = "amzn2-ami-hvm"
+  default = "amzn2-ami-hvm*"
 }
 
 variable "instancetype" {
